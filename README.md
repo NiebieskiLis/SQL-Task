@@ -13,10 +13,11 @@ Database schema can be created via Create file
 
 #### Data load
 Data can be loaded within the usage of 4 following files in the following order :
-1-Boksy , Diety , Gatuki , Zwierzeta.sql	
-2-Pracownicy i weterynarze.sql	
-3-Składniki , Posiłki składy posiłków , Zlecenia Diety.sql	
-4-Karmienia Zwierzat Boksów i ogólnie Modyfikacje.sql
+* 1-Boksy , Diety , Gatuki , Zwierzeta.sql	
+* 2-Pracownicy i weterynarze.sql	
+* 3-Składniki , Posiłki składy posiłków , Zlecenia Diety.sql	
+* 4-Karmienia Zwierzat Boksów i ogólnie Modyfikacje.sql
+
 all of them contains simple inserts
 
 #### SQL 
